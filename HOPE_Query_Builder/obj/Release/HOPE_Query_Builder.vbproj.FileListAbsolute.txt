@@ -1,0 +1,16 @@
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\bin\Release\HOPE_Query_Builder.exe.config
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\bin\Release\HOPE_Query_Builder.exe
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\bin\Release\HOPE_Query_Builder.pdb
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\bin\Release\HOPE_Query_Builder.xml
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\bin\Release\MySql.Data.dll
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.Resources.resources
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.vbproj.GenerateResource.Cache
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.exe
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.xml
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.pdb
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.vbprojResolveAssemblyReference.cache
+\\hh-fileserver01\it\IT\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\bin\Release\HOPE_Query_Builder.exe.config
+\\hh-fileserver01\it\IT\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.exe
+\\hh-fileserver01\it\IT\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.xml
+\\hh-fileserver01\it\IT\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.pdb
+I:\HOPE\HOPE_Query_Builder\HOPE_Query_Builder\HOPE_Query_Builder\obj\Release\HOPE_Query_Builder.frmQueryBuilder.resources
